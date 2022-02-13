@@ -1,0 +1,2 @@
+# AI_Trends_DevOps_assignment
+assignment repository
